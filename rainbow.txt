@@ -1,0 +1,6 @@
+This is sample rainbow text file
+Some more comments.
+Below are some colors
+Blue
+Yellow
+Green
